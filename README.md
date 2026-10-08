@@ -1,6 +1,7 @@
 # 🏦 Bank Account Simulator
 
-A web-based **Bank Account Simulator** developed using **ASP.NET Web Forms and C#**.  
+A web-based **Bank Account Simulator** developed using **ASP.NET Web Forms and C#**.
+
 This application simulates basic banking operations such as depositing money, withdrawing money, checking the current balance, and viewing transaction history.
 
 ## 📌 Project Overview
@@ -9,21 +10,21 @@ The Bank Account Simulator provides a simple and user-friendly interface for man
 
 Users can perform account operations and view their transaction history with details such as transaction type, amount, balance, and date & time.
 
-The project was developed to gain practical experience in **ASP.NET Web Forms, C#, ADO.NET, SQL Server, and database-driven web application development**.
+The project was developed using **ASP.NET Web Forms, C#, ADO.NET, and SQL Server** to demonstrate practical database-driven web application development.
 
 ## 🚀 Features
 
 ### 🔐 User Authentication
-- User login
+- User Login
 - Logout functionality
-- Secure access to the account page
+- Access to the account page after login
 
 ### 💰 Account Operations
 - View account number
 - View current account balance
 - Deposit money
 - Withdraw money
-- Display success messages for transactions
+- Display transaction success messages
 
 ### 📋 Transaction History
 - View complete transaction history
